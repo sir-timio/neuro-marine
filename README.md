@@ -33,3 +33,9 @@ pip install -U label-studio
 ```
 LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=/path/to/data label-studio
 ```
+
+## Frontend
+- run streamlit application from "pages" parent folder
+```
+streamlit run main.py
+```
