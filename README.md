@@ -1,6 +1,6 @@
 # World Youth Festival AI hackaton solution
 
-- clone source
+- clone source 
 ```
 git clone https://github.com/sir-timio/WYF2024
 ```
